@@ -1,9 +1,9 @@
-# lxc-1.0.3 rpm build tools (with python-3.4.0 bindings)
+## lxc-1.0.3 rpm build tools (with python-3.4.0 bindings)
 
 !!! USER AT YOUR OWN RISK !!!
 It's not tested carefully
 
-## BUILD:
+### BUILD:
 
 ````
 yum install python34-python python34-python-devel -y
